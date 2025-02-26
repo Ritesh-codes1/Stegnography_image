@@ -32,8 +32,7 @@ File Handling – Read, write, and extract hidden data securely.
 
   Clone the repository:
 
-git clone https://github.com/yourusername/secure-steganography.git
-cd secure-steganography
+https://github.com/Ritesh-codes1/Stegnography_image.git
 
   Install dependencies:
 
