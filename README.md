@@ -1,10 +1,10 @@
-Secure Data Hiding in Images Using Steganography
+**Secure Data Hiding in Images Using Steganography**
 
-Introduction
+**Introduction**
 
 This project implements a secure data hiding technique using steganography to embed encrypted information within images. Only authorized users with the correct password can decrypt and extract the hidden data. The system ensures data confidentiality while maintaining image quality.
 
-Features
+**Features**
 
 Password-Protected Decryption – Ensures only authorized users can access the hidden data.
 
@@ -16,7 +16,7 @@ Multi-Format Support – Works with PNG, JPEG, BMP images.
 
 Automated File Handling – Efficient reading, writing, and retrieval using Python’s OS module.
 
-Technologies Used
+**Technologies Used**
 
 Python – Core programming language.
 
@@ -28,32 +28,32 @@ OS Module – File operations and management.
 
 File Handling – Read, write, and extract hidden data securely.
 
-Installation
+**Installation**
 
-Clone the repository:
+  Clone the repository:
 
 git clone https://github.com/yourusername/secure-steganography.git
 cd secure-steganography
 
-Install dependencies:
+  Install dependencies:
 
 pip install opencv-python numpy
 
-Usage
+**Usage**
 
-Hide Data in Image:
+  Hide Data in Image:
 
 Run the script and provide an image, text file, and password.
 
 python hide.py
 
-Extract Hidden Data:
+  Extract Hidden Data:
 
 Use the correct password to retrieve the data.
 
 python extract.py
 
-Future Scope
+**Future Scope**
 
 Advanced Encryption – Stronger security algorithms.
 
@@ -65,10 +65,10 @@ Multi-Media Support – Expand to video/audio steganography.
 
 Cloud Integration – Secure cloud-based hidden data storage.
 
-Contributing
+**Contributing**
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-License
+**License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
